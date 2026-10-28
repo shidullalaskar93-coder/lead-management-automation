@@ -1,0 +1,38 @@
+[
+  {
+    "first_name": "Elon",
+    "last_name": "Sterling",
+    "email": "elon.sterling@aerospace-ai.com",
+    "company": "Aerospace AI Dynamics",
+    "phone": "+1 (555) 345-9876",
+    "industry": "Enterprise Software",
+    "company_size": "1000+",
+    "budget": 200000,
+    "source": "WEBSITE",
+    "intent_signal": "REQUEST_DEMO"
+  },
+  {
+    "first_name": "Maya",
+    "last_name": "Lin",
+    "email": "maya.lin@biogen-labs.org",
+    "company": "BioGen Innovations",
+    "phone": "555-876-1122",
+    "industry": "Healthcare",
+    "company_size": "201-500",
+    "budget": 45000,
+    "source": "WEBINAR",
+    "intent_signal": "CONTACT_SALES"
+  },
+  {
+    "first_name": "Leo",
+    "last_name": "Fitz",
+    "email": "leo.fitz@garage-tech.io",
+    "company": "Garage Tech Lab",
+    "phone": "+1 555 999 8877",
+    "industry": "Other",
+    "company_size": "1-10",
+    "budget": 1500,
+    "source": "ORGANIC_SEARCH",
+    "intent_signal": "NEWSLETTER_SIGNUP"
+  }
+]

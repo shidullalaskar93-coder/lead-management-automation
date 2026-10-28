@@ -1,0 +1,9 @@
+first_name,last_name,email,company,phone,industry,company_size,budget,source,intent_signal
+John,Doe,john.doe@acmeenterprise.com,Acme Enterprise Inc,"+1 (555) 234-5678",Enterprise Software,1000+,125000,WEBSITE,REQUEST_DEMO
+Samantha,Vance,samantha.vance@fintechglobal.com,FinTech Global,"+1 (555) 876-5432",Fintech,501-1000,75000,LINKEDIN,CONTACT_SALES
+Dr. Gregory,House,gregory.house@princetonplainsboro.org,Princeton Health,"+1-800-555-0199",Healthcare,201-500,35000,PARTNER,PRICING_PAGE
+Rachel,Green,rachel.green@centralperk.co,Central Perk Boutique,555.432.1098,Retail,1-10,3000,WEBSITE,NEWSLETTER_SIGNUP
+Alex,Morgan,alex.morgan@cyberdefense.io,Cyber Defense Systems,"+44 20 7946 0958",Cybersecurity,1000+,150000,WEBSITE,REQUEST_DEMO
+Invalid,Email,not-an-email-at-all,Broken Corp,555-123-4567,Other,1-10,0,WEBSITE,GENERAL_INQUIRY
+Missing,Company,missing.comp@orphan.com,,+15559876543,SaaS,11-50,15000,WEBSITE,TRIAL_SIGNUP
+John,Doe,john.doe@acmeenterprise.com,Acme Enterprise Inc,"+15552345678",Enterprise Software,1000+,125000,WEBSITE,REQUEST_DEMO
